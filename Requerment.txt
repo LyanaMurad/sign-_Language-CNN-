@@ -1,0 +1,26 @@
+
+python=========3.12.5
+os========= Built-in
+cv2========= 4.10.0
+pandas======== 2.2.2
+numpy========= 1.26.4
+matplotlib========== 3.9.2
+seaborn=========== 0.13.2
+tensorflow========== 2.17.0
+keras============ 3.5.0
+scikit-learn========= 2.17.0
+
+
+
+Device name	DESKTOP-MEEFTGH
+Processor	12th Gen Intel(R) Core(TM) i5-12450H   2.00 GHz
+Installed RAM	16.0 GB (15.7 GB usable)
+Device ID	0EB8B6E7-DE15-4E2B-A4E4-928B3ADD59E4
+Product ID	00331-20313-54567-AA688
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+
+
+
+
