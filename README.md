@@ -1,4 +1,7 @@
 # Sign_Language CNN Project
+
+![image](https://github.com/user-attachments/assets/20884ab1-3355-4319-80ed-719519b5b25b)
+
 ## Abstract
 The growing need for inclusive communication tools has made sign language recognition an important area of research in human-computer interaction. This project aims to develop a robust and accurate system for sign language recognition using Convolutional Neural Networks (CNN). The model will be trained on a dataset of hand gestures representing various sign language characters and words, allowing for real-time or near-real-time translation of sign language into text or speech. The project leverages deep learning techniques, specifically CNNs, to capture spatial hierarchies in the image data and improve recognition accuracy. This system has the potential to bridge communication barriers for the hearing impaired, facilitating better interaction in everyday scenarios.
 
