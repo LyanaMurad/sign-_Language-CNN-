@@ -107,6 +107,18 @@ Display a selection of predicted labels alongside the actual labels to assess th
 Discuss the performance metrics achieved, accuracy levels, and potential areas for improvement.
 #### Future Directions: 
 Explore enhancements such as using more complex architectures (e.g., transfer learning with pre-trained models), implementing data augmentation, or deploying the model in real-time applications.
+Using Convolutional Neural Networks (CNNs) is advantageous in several types of machine learning problems, especially for tasks involving image data, but they are also effective for other tasks like time-series and natural language processing. Key reasons for using CNNs include:
+
+##Usning CNN
+Spatial Invariance: CNNs can capture spatial hierarchies in data by applying convolutional filters to learn local patterns (e.g., edges in images) and higher-level features (e.g., shapes). This makes CNNs highly effective for images, videos, and even 2D/3D structured data.
+
+Parameter Efficiency: The convolutional layers use shared weights, which reduces the number of parameters compared to fully connected layers, making CNNs more efficient to train and less prone to overfitting.
+
+Feature Learning: CNNs automatically learn relevant features from data, reducing the need for manual feature engineering. They can detect low-level features (like edges) and higher-level representations (like objects) in different layers.
+
+Translation Invariance: Through pooling layers and convolutions, CNNs achieve robustness to translations, meaning they can recognize patterns or objects regardless of where they appear in the input (e.g., an object in different parts of an image).
+
+Applicability to Multiple Domains: While CNNs are most commonly used for image classification, they have also been successfully applied in time-series forecasting, text classification, and audio processing by using 1D or 2D convolutions.
 
 ### Limitations
 _ Detecting only the right hand.
