@@ -108,13 +108,13 @@ Discuss the performance metrics achieved, accuracy levels, and potential areas f
 #### Future Directions: 
 Explore enhancements such as using more complex architectures (e.g., transfer learning with pre-trained models), implementing data augmentation, or deploying the model in real-time applications.
 
-## Limitations
-### Detecting only the right hand.
-### Covering A-Z alphabets, excluding J and Z.
-### Unable to detect J and Z as they are moving signs in ASL.
+### Limitations
+_ Detecting only the right hand.
+_ Covering A-Z alphabets, excluding J and Z.
+_ Unable to detect J and Z as they are moving signs in ASL.
 
-## Future Scope
-### Implement recognition for both hands.
-### Increase scope from only alphabets to include both alphabets and numbers.
-### Enable sentence creation in real-time.
+### Future Scope
+_ Implement recognition for both hands.
+_ Increase scope from only alphabets to include both alphabets and numbers.
+_ Enable sentence creation in real-time.
 
