@@ -110,7 +110,9 @@ Explore enhancements such as using more complex architectures (e.g., transfer le
 
 ### Limitations
 _ Detecting only the right hand.
+
 _ Covering A-Z alphabets, excluding J and Z.
+
 _ Unable to detect J and Z as they are moving signs in ASL.
 
 ### Future Scope
