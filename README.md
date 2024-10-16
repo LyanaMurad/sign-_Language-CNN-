@@ -109,7 +109,7 @@ Discuss the performance metrics achieved, accuracy levels, and potential areas f
 Explore enhancements such as using more complex architectures (e.g., transfer learning with pre-trained models), implementing data augmentation, or deploying the model in real-time applications.
 Using Convolutional Neural Networks (CNNs) is advantageous in several types of machine learning problems, especially for tasks involving image data, but they are also effective for other tasks like time-series and natural language processing. Key reasons for using CNNs include:
 
-##Usning CNN
+## Usning CNN
 
 Spatial Invariance: CNNs can capture spatial hierarchies in data by applying convolutional filters to learn local patterns (e.g., edges in images) and higher-level features (e.g., shapes). This makes CNNs highly effective for images, videos, and even 2D/3D structured data.
 
