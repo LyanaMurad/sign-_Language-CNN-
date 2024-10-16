@@ -121,14 +121,14 @@ Translation Invariance: Through pooling layers and convolutions, CNNs achieve ro
 
 Applicability to Multiple Domains: While CNNs are most commonly used for image classification, they have also been successfully applied in time-series forecasting, text classification, and audio processing by using 1D or 2D convolutions.
 
-### Limitations
+## Limitations
 _ Detecting only the right hand.
 
 _ Covering A-Z alphabets, excluding J and Z.
 
 _ Unable to detect J and Z as they are moving signs in ASL.
 
-### Future Scope
+## Future Scope
 _ Implement recognition for both hands.
 
 _ Increase scope from only alphabets to include both alphabets and numbers.
