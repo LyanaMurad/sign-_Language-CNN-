@@ -115,6 +115,8 @@ _ Unable to detect J and Z as they are moving signs in ASL.
 
 ### Future Scope
 _ Implement recognition for both hands.
+
 _ Increase scope from only alphabets to include both alphabets and numbers.
+
 _ Enable sentence creation in real-time.
 
