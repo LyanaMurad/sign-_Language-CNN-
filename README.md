@@ -10,7 +10,6 @@ The growing need for inclusive communication tools has made sign language recogn
 To develop a Convolutional Neural Network (CNN)-based model that accurately recognizes and translates sign language gestures into textual or spoken language.
 
 ## Objectives:
-
 To collect and preprocess a dataset of sign language images or video frames representing various alphabets or words.
 To design and implement a CNN architecture optimized for image-based gesture recognition.
 To train and validate the model on the dataset, ensuring high accuracy in gesture recognition.
@@ -48,8 +47,10 @@ Implement the system to provide real-time translations of sign language gestures
 
 ## Roadmap for Sign Language Recognition using CNN
 ### 1. Project Initialization
-#### Define Goals: Clearly outline the objectives, including the target accuracy and intended applications.
-#### Gather Resources: Collect all necessary datasets, libraries, and tools required for the project.
+#### Define Goals:
+Clearly outline the objectives, including the target accuracy and intended applications.
+#### Gather Resources:
+Collect all necessary datasets, libraries, and tools required for the project.
 
 ### 2. Data Preparation
 #### Load Data:
@@ -77,12 +78,10 @@ Use techniques to divide the data into training, validation, and test sets to en
 Create a pie chart to display the proportions of each dataset split, providing a visual overview of how the data is allocated.
 
 ### 4. One-Hot Encoding
-
 #### Convert Labels:
 Apply one-hot encoding to the target variable to prepare it for multi-class classification.
 
 ### 5. Model Building
-
 #### Define the CNN Model:
 Construct a Sequential model incorporating convolutional, pooling, and dense layers to capture the features of sign language images.
 
@@ -90,7 +89,6 @@ Construct a Sequential model incorporating convolutional, pooling, and dense lay
 Specify the optimizer, loss function, and evaluation metrics needed for the training process.
 
 ### 6. Model Training
-
 #### Train the Model:
 Train the model on the training dataset while monitoring validation loss, implementing early stopping to prevent overfitting.
 
@@ -105,5 +103,7 @@ Use the trained model to make predictions on the test dataset to evaluate its pe
 Display a selection of predicted labels alongside the actual labels to assess the model's accuracy visually.
 
 ### 8. Conclusion and Future Work
-#### Summarize Results: Discuss the performance metrics achieved, accuracy levels, and potential areas for improvement.
-#### Future Directions: Explore enhancements such as using more complex architectures (e.g., transfer learning with pre-trained models), implementing data augmentation, or deploying the model in real-time applications.
+#### Summarize Results:
+Discuss the performance metrics achieved, accuracy levels, and potential areas for improvement.
+#### Future Directions: 
+Explore enhancements such as using more complex architectures (e.g., transfer learning with pre-trained models), implementing data augmentation, or deploying the model in real-time applications.
